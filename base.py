@@ -21,3 +21,6 @@ api_router.include_router(route_association.router, prefix="/group-device", tags
 api_router.include_router(route_login.router, prefix="/login", tags=['/login'])
 api_router.include_router(route_role.router, prefix="/role", tags=['/roles'])
 api_router.include_router(route_userrole.router, prefix="/user_role", tags=['/userrole'])
+
+
+#ajfbjhdasbfhabaskgfsjdbc bjsfgkdsmnzsdbyjsgfkjsd ksb dzscbisgfksdbfjg
